@@ -1,0 +1,37 @@
+<?php
+const SECRET = '';
+const REPO_DIR = '/var/www/luneyTheCat/';
+const LOG_FILE = 'webhook.log';
+
+$body = file_get_contents('php://input');
+
+try {
+    if (verifySignature($body)) {
+        $output = executeGitPull();
+        logOutput($output);
+    } else {
+        throw new Exception('Unauthorized: Invalid secret key');
+    }
+} catch (Exception $e) {
+    http_response_code(403);
+    echo $e->getMessage();
+}
+
+function verifySignature($body): bool
+{
+    $headers = getallheaders();
+    $signature = $headers['X-Hub-Signature-256'] ?? '';
+    $expectedSignature = 'sha256=' . hash_hmac('sha256', $body, SECRET);
+    return hash_equals($expectedSignature, $signature);
+}
+
+function executeGitPull(): string
+{
+    return shell_exec('cd ' . REPO_DIR . ' && git pull origin main 2>&1');
+}
+
+function logOutput(string $output): void
+{
+    $logEntry = date('[Y-m-d H:i:s] ') . $output . PHP_EOL;
+    file_put_contents(LOG_FILE, $logEntry, FILE_APPEND);
+}
