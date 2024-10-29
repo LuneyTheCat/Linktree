@@ -1,9 +1,23 @@
-@font-face{
-    font-family: 'baloo_thambi';
-    src: url('baloothambi-regular-webfont.woff2') format('woff2'),
-         url('baloothambi-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+.baloo-thambi-2-Light{
+  font-family: "Baloo Thambi 2", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 18px;
+  font-style: normal;
+}
+.baloo-thambi-2-Normal{
+  font-family: "Baloo Thambi 2", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-size: 18px;
+  font-style: normal;
+}
+.baloo-thambi-2-Bold{
+  font-family: "Baloo Thambi 2", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 18px;
+  font-style: normal;
 }
 @font-face {
     font-family: 'Pacifico';
@@ -27,6 +41,30 @@
 }
 
 /*Warn site styleguide*/
+.PrimaryButt{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #f79f2f;
+  color: #FFFFFF;
+  border-style: solid;
+  border-color: #f79f2f;
+  border-radius: 100px;
+  border-width: 4px;
+}
+.PrimaryButt:hover{
+  background-color: #FFFFFF;
+  color: #f79f2f;
+  border-width: 2px;
+  border-radius: 100px;
+}
+.PrimaryButt:active{
+  background-color: #FFFFFF;
+  color: #f79f2f;
+  border-radius: 100px;
+  border-width: 4px;
+}
 
 .centerHeaderWarn00{
   display: flex;
