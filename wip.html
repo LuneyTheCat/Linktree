@@ -11,17 +11,68 @@
     <link rel="icon" type="images/x-icon" href="images/faviconOops_64px.ico">
   </head>
   <body class="BG0">
-    <div class="centerLogo">
-      <button class="PrimaryButt baloo-thambi-2-Bold">PRIMARY BUTTON</button>
+    <div class="centerHeaderWarn00">
+      <button class="PrimaryButt-Light baloo-thambi-2-Normal">PRIMARY BUTTON LIGHT</button>
     </div>
     <div class="centerHeaderWarn00">
-        <button class="fancyButt2">link button</button>
+        <button class="PrimaryButt-Dark baloo-thambi-2-Normal">PRIMARY BUTTON DARK</button>
+    </div>
+    <div class="centerHeaderWarn00">
+      <button class="LinkButt-Light baloo-thambi-2-Normal">LINK BUTTON LIGHT</button>
+    </div>
+    <div class="centerHeaderWarn00">
+      <button class="LinkButt-Dark baloo-thambi-2-Normal">LINK BUTTON DARK</button>
     </div>
     <div class="centerHeaderWarn01">
-      <button class="fancyButt3">Collapse button</button>
+      <div class="DropdownsDiv">
+        <button type="button" class="DropdownButt-Top baloo-thambi-2-Bold Collapsable">Collapse button first</button>
+        <div class="CollapsedCotent-Top">
+          <p>i am visible now :3</p>
+        </div>
+      </div> 
+      <div class="DropdownsDiv">
+        <button type="button" class="DropdownButt-Mid baloo-thambi-2-Bold Collapsable">Collapse button  mid 1</button>
+        <div class="CollapsedCotent-Top">
+          <p>i am visible now :3</p>
+        </div>
+      </div> 
+      <div class="DropdownsDiv">
+        <button type="button" class="DropdownButt-Mid baloo-thambi-2-Bold Collapsable">Collapse button mid 2</button>
+        <div class="CollapsedCotent-Top">
+          <p>i am visible now :3</p>
+        </div>
+      </div> 
+      <div class="DropdownsDiv">
+        <button class="DropdownButt-Bottom baloo-thambi-2-Bold Collapsable">Collapse button last</button>
+        <div class="CollapsedCotent-Bottom">
+          <p>i am visible now :3</p>
+        </div>
+      </div>  
     </div>
     <!--<div class="centerButtons">
       <button class="button" onclick="window.close()">Close</button>
     </div>-->
+
+
+
+
+
+
+    <script>
+      var coll = document.getElementsByClassName("Collapsable");
+      var i;
+
+        for (i = 0; i < coll.length; i++) {
+          coll[i].addEventListener("click", function() {
+          this.classList.toggle("active");
+          var content = this.nextElementSibling;
+          if (content.style.display === "block") {
+            content.style.display = "none";
+          } else {
+            content.style.display = "block";
+          }
+        });
+        }
+    </script>
   </body>
 </html>
