@@ -19,23 +19,14 @@
   font-size: 18px;
   font-style: normal;
 }
-@font-face {
-    font-family: 'Pacifico';
-    src: url('pacifico-regular-webfont.woff2') format('woff2'),
-         url('pacifico-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+.baloo-thambi-2-Header{
+  font-family: "Baloo Thambi 2", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-size: 64px;
+  font-style: normal;
+  color: #f170a6;
 }
-@font-face {
-    font-family: 'Acumin_Pro';
-    src: url('acumin-rpro.woff2') format('woff2'),
-         url('acumin-rpro.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-/*Background styleguides*/
-
-} 
 .BG0{
   background-image: url('images/BG_64px.webp');
 }
@@ -43,6 +34,7 @@
 /*BUTTONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /*PRimary Button but Light*/
 .PrimaryButt-Light{
+  margin-left: 1%;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 20px;
@@ -68,6 +60,7 @@
 }
 /*Primary Button but DARK*/
 .PrimaryButt-Dark{
+  margin-left: 1%;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 20px;
@@ -92,6 +85,7 @@
   border-width: 2px;
 }
 .LinkButt-Light{
+  margin-left: 1%;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 20px;
@@ -119,6 +113,7 @@
 }
 .LinkButt-Dark{
   padding-top: 10px;
+  margin-left: 1%;
   padding-bottom: 10px;
   padding-left: 20px;
   padding-right: 20px;
@@ -144,6 +139,7 @@
   border-radius: 100px;
 }
 .DropdownButt-Top{
+  transition-duration: 500ms;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 20px;
@@ -165,6 +161,8 @@
   transition: max-height 0.2s ease-out;
 }
 .DropdownButt-Mid{
+  transition-duration: 500ms;
+  padding-top: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 20px;
@@ -184,6 +182,8 @@
   transition: max-height 0.2s ease-out;
 }
 .DropdownButt-Bottom{
+  transition-duration: 500ms;
+  padding-top: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 20px;
@@ -200,11 +200,14 @@
   display: block;
 }
 .DropdownButt-Bottom:hover, .DropdownButt-Bottom:active{
-  background-color: #fff7ee;
+  background-color: #d8d7ff;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
   box-shadow: 0 0 10px 0 #00000010;
   transition: max-height 0.2s ease-out;
 }
 .CollapsedCotent-Top{
+  display: none;
   background-color: #fff7ee;
   padding: 30px;
   border-width: 0px 1px 1px 1px;
@@ -212,6 +215,7 @@
   border-style: solid;
 }
 .CollapsedCotent-Bottom{
+  display: none;
   background-color: #fff7ee;
   padding: 30px;
   border-width: 0px 1px 1px 1px;
@@ -295,4 +299,10 @@
   width: 280px;
   margin: 13px 2px;
   font-size: 18px;
+}
+.Collapsable + * {
+  display: none;
+}
+.HeaderPink{
+
 }
