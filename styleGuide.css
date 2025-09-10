@@ -1,31 +1,63 @@
+@font-face {
+  font-family: Dongle-Light;
+  src: url(Dongle-Light.ttf);
+}
+@font-face {
+  font-family: Dongle-Regular;
+  src: url(Dongle-Regular.ttf);
+}
+@font-face {
+  font-family: Dongle-Bold;
+  src: url(Dongle-Bold.ttf);
+}
+@font-face {
+  font-family: Dongle-Bold;
+  src: url(Dongle-Bold.ttf);
+}
+@font-face {
+  font-family: Roboto-Italic;
+  src: url(Roboto-Italic-VariableFont_wdth,wght.ttf);
+}
+@font-face {
+  font-family: Roboto-Regular;
+  src: url(Roboto-VariableFont_wdth,wght.ttf);
+}
+
 .dongle-Light{
-  font-family: "Dongle", system-ui;
+  font-family: "Dongle-Light", system-ui;
   font-optical-sizing: auto;
   font-weight: 400;
   font-size: 18px;
   font-style: normal;
 }
-.dongle-Normal{
-  font-family: "Dongle", system-ui;
+.dongle-regular{
+  font-family: "Dongle-Regular", system-ui;
   font-optical-sizing: auto;
   font-weight: 500;
   font-size: 18px;
   font-style: normal;
 }
-.dongle-Bold{
-  font-family: "Dongle", system-ui;
+.dongle-bold{
+  font-family: "Dongle-Bold", system-ui;
   font-optical-sizing: auto;
   font-weight: 700;
   font-size: 18px;
   font-style: normal;
 }
-.dongle-Header{
-  font-family: "Dongle", system-ui;
+.dongle-header{
+  font-family: "Dongle-Bold", system-ui;
   font-optical-sizing: auto;
   font-weight: 900;
   font-size: 64px;
   font-style: normal;
   color: #f170a6;
+}
+.roboto-regular{
+  font-family: "Roboto-Regular", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-size: 18px;
+  font-style: normal;
 }
 .BG0{
   background-image: url('images/BG_64px.webp');
