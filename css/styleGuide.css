@@ -1,26 +1,26 @@
 @font-face {
   font-family: Dongle-Light;
-  src: url(./fonts/Dongle-Light.ttf);
+  src: url(fonts/Dongle-Light.ttf);
 }
 @font-face {
   font-family: Dongle-Regular;
-  src: url(./fonts/Dongle-Regular.ttf);
+  src: url(fonts/Dongle-Regular.ttf);
 }
 @font-face {
   font-family: Dongle-Bold;
-  src: url(./fonts/Dongle-Bold.ttf);
+  src: url(fonts/Dongle-Bold.ttf);
 }
 @font-face {
   font-family: Dongle-Bold;
-  src: url(./fonts/Dongle-Bold.ttf);
+  src: url(fonts/Dongle-Bold.ttf);
 }
 @font-face {
   font-family: Roboto-Italic;
-  src: url(./fonts/Roboto-Italic-VariableFont_wdth,wght.ttf);
+  src: url(fonts/Roboto-Italic-VariableFont_wdth,wght.ttf);
 }
 @font-face {
   font-family: Roboto-Regular;
-  src: url(./fonts/Roboto-VariableFont_wdth,wght.ttf);
+  src: url(fonts/Roboto-VariableFont_wdth,wght.ttf);
 }
 
 .dongle-Light{
