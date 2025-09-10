@@ -298,7 +298,7 @@
   color: #f170a6;
   font-size: 30px;
   text-align: center;
-  font-family: 'baloo_thambi', Calibiri, Tahoma, sans-serif;
+  font-family: 'Dongle-Bold', Calibiri, Tahoma, sans-serif;
 }
 
 /*Buttons styleguide*/
@@ -310,7 +310,7 @@
   height: 64px;
 }
 .button {
-  text-align: center;
+  text-align: centFer;
   font-family: 'Roboto-Regular', Calibiri, Tahoma, sans-serif;
   width: 256px;
   background-color: #1a193f;
