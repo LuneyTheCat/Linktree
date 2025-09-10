@@ -6,12 +6,12 @@ const characterData = [
     "species": "Earth Dragon",
     "gender": "Male",
     "tags": "Dragon, Scalie, Aincient, Patient, Honorable, Defensive, Elemental",
-    "image": "https://via.placeholder.com/300x300/4a90e2/ffffff?text=Aria",
+    "image": "https://luney-the-cat.de/images/Avrass_01.webp",
     "backstory": "Born in the mystical forests of Eldara, Aria discovered her magical abilities at a young age. She specializes in storm magic and healing arts, making her both a formidable warrior and a compassionate healer. Her noble heritage grants her access to ancient spells passed down through generations of elven mages.",
     "gallery": [
-      "https://via.placeholder.com/150x150/4a90e2/ffffff?text=Spell+1",
-      "https://via.placeholder.com/150x150/4a90e2/ffffff?text=Spell+2",
-      "https://via.placeholder.com/150x150/4a90e2/ffffff?text=Spell+3"
+      "https://luney-the-cat.de/images/Avrass_02.webp",
+      "https://luney-the-cat.de/images/Avrass_03.webp",
+      "https://luney-the-cat.de/images/Avrass_04.webp"
     ]
   },
   {
@@ -20,12 +20,12 @@ const characterData = [
     "species": "Ice Dragon",
     "gender": "Male",
     "tags": "Dragon, Scalie, Aincient, Wise, Calm, Direct, Elemental",
-    "image": "https://luney-the-cat.de/images/Wynstar01.webp",
+    "image": "https://luney-the-cat.de/images/Aoikami_01.webp",
     "backstory": "Hailing from the underground forges of Khaz Modan, Thorek is a master blacksmith and fierce warrior. His family has served the dwarven kingdom for centuries, crafting legendary weapons and armor. In battle, he wields his ancestral warhammer with unmatched skill and determination.",
     "gallery": [
-      "https://luney-the-cat.de/images/Wynstar02.webp",
-      "https://luney-the-cat.de/images/Wynstar03.webp",
-      "https://luney-the-cat.de/images/Wynstar04.webp"
+      "https://luney-the-cat.de/images/Aoikami_02.webp",
+      "https://luney-the-cat.de/images/Aoikami_03.webp",
+      "https://luney-the-cat.de/images/Aoikami_04.webp"
     ]
   },
   {
@@ -34,12 +34,12 @@ const characterData = [
     "species": "Nightstalker Werewolf",
     "gender": "Male",
     "tags": "Werewolf, Feral, Stealth, Agile, Mysterious, Thoughtfull",
-    "image": "https://via.placeholder.com/300x300/9b59b6/ffffff?text=Luna",
+    "image": "https://luney-the-cat.de/images/Fitcher_01.webp",
     "backstory": "A master of stealth and subterfuge, Luna grew up on the streets of the capital city. She learned to survive through cunning and agility, eventually becoming one of the most skilled assassins in the realm. Despite her dark profession, she follows a strict code of honor.",
     "gallery": [
-      "https://via.placeholder.com/150x150/9b59b6/ffffff?text=Shadow+1",
-      "https://via.placeholder.com/150x150/9b59b6/ffffff?text=Shadow+2",
-      "https://via.placeholder.com/150x150/9b59b6/ffffff?text=Shadow+3"
+      "https://luney-the-cat.de/images/Fitcher_02.webp",
+      "https://luney-the-cat.de/images/Fitcher_03.webp",
+      "https://luney-the-cat.de/images/Fitcher_04.webp"
     ]
   },
   {
@@ -48,12 +48,12 @@ const characterData = [
     "species": "Tentacle Monster",
     "gender": "Unknown",
     "tags": "Tentacle, Monster, Sadistic, Keeper, Hunter, Emotionless",
-    "image": "https://via.placeholder.com/300x300/f39c12/ffffff?text=Zephyr",
+    "image": "https://luney-the-cat.de/images/Terander_01.webp",
     "backstory": "A jovial halfling with an insatiable wanderlust, Zephyr travels the world collecting stories and songs. His magical music can inspire allies in battle or soothe savage beasts. He carries an enchanted lute that has been passed down through his family for generations.",
     "gallery": [
-      "https://via.placeholder.com/150x150/f39c12/ffffff?text=Song+1",
-      "https://via.placeholder.com/150x150/f39c12/ffffff?text=Song+2",
-      "https://via.placeholder.com/150x150/f39c12/ffffff?text=Song+3"
+      "https://luney-the-cat.de/images/Terander_02.webp",
+      "https://luney-the-cat.de/images/Terander_03.webp",
+      "https://luney-the-cat.de/images/Terander_04.webp"
     ]
   },
   {
@@ -62,12 +62,12 @@ const characterData = [
     "species": "Spectral Unicorn",
     "gender": "Male",
     "tags": "Horselike, Spectral, Holy, Charming, Succubus, Untamable",
-    "image": "https://luney-the-cat.de/images/Wynstar01.webp",
+    "image": "https://luney-the-cat.de/images/Wynstar_01.webp",
     "backstory": "Descended from ancient dragons, Kael serves as a paladin of the Solar Court. His dragon heritage grants him the ability to breathe fire and resist magical attacks. He has sworn an oath to protect the innocent and vanquish evil wherever it may lurk.",
     "gallery": [
-      "https://luney-the-cat.de/images/Wynstar02.webp",
-      "https://luney-the-cat.de/images/Wynstar03.webp",
-      "https://luney-the-cat.de/images/Wynstar04.webp"
+      "https://luney-the-cat.de/images/Wynstar_02.webp",
+      "https://luney-the-cat.de/images/Wynstar_03.webp",
+      "https://luney-the-cat.de/images/Wynstar_04.webp"
     ]
   },
   {
@@ -76,12 +76,12 @@ const characterData = [
     "species": "Spectral Slime",
     "gender": "Unknown",
     "tags": "Slime, Spectral, Friendly, Tamable, Pleasuring, Caring",
-    "image": "https://via.placeholder.com/300x300/8e44ad/ffffff?text=Violet",
+    "image": "https://luney-the-cat.de/images/Spectralis_01.webp",
     "backstory": "Born with infernal heritage, Violet embraces her magical abilities with fierce determination. She studies ancient tomes and forbidden magic to unlock the secrets of arcane power. Her ambition drives her to become one of the most powerful sorcerers of her generation.",
     "gallery": [
-      "https://via.placeholder.com/150x150/8e44ad/ffffff?text=Magic+1",
-      "https://via.placeholder.com/150x150/8e44ad/ffffff?text=Magic+2",
-      "https://via.placeholder.com/150x150/8e44ad/ffffff?text=Magic+3"
+      "https://luney-the-cat.de/images/Spectralis_02.webp",
+      "https://luney-the-cat.de/images/Spectralis_03.webp",
+      "https://luney-the-cat.de/images/Spectralis_04.webp"
     ]
   },
   {
@@ -90,12 +90,12 @@ const characterData = [
     "species": "Alien Shapeshifter",
     "gender": "Unknown",
     "tags": "Alien, Shapeshifter, Enslaver, Stong-willed, Hunter, Aggressive",
-    "image": "https://via.placeholder.com/300x300/2ecc71/ffffff?text=Finn",
+    "image": "https://luney-the-cat.de/images/Thalassomorph_01.webp",
     "backstory": "A skilled ranger who grew up in the wilderness, Finn has an unmatched ability to track any creature through any terrain. His bow never misses its mark, and he has formed deep bonds with the forest animals that aid him in his quests to protect the natural world.",
     "gallery": [
-      "https://via.placeholder.com/150x150/2ecc71/ffffff?text=Arrow+1",
-      "https://via.placeholder.com/150x150/2ecc71/ffffff?text=Arrow+2",
-      "https://via.placeholder.com/150x150/2ecc71/ffffff?text=Arrow+3"
+      "https://luney-the-cat.de/images/Thalassomorph_02.webp",
+      "https://luney-the-cat.de/images/Thalassomorph_03.webp",
+      "https://luney-the-cat.de/images/Thalassomorph_04.webp"
     ]
   },
   {
