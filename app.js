@@ -20,12 +20,12 @@ const characterData = [
     "species": "Ice Dragon",
     "gender": "Male",
     "tags": "Dragon, Scalie, Aincient, Wise, Calm, Direct, Elemental",
-    "image": "https://via.placeholder.com/300x300/e74c3c/ffffff?text=Thorek",
+    "image": "https://luney-the-cat.de/images/Wynstar01.webp",
     "backstory": "Hailing from the underground forges of Khaz Modan, Thorek is a master blacksmith and fierce warrior. His family has served the dwarven kingdom for centuries, crafting legendary weapons and armor. In battle, he wields his ancestral warhammer with unmatched skill and determination.",
     "gallery": [
-      "https://via.placeholder.com/150x150/e74c3c/ffffff?text=Forge+1",
-      "https://via.placeholder.com/150x150/e74c3c/ffffff?text=Forge+2",
-      "https://via.placeholder.com/150x150/e74c3c/ffffff?text=Forge+3"
+      "https://luney-the-cat.de/images/Wynstar02.webp",
+      "https://luney-the-cat.de/images/Wynstar03.webp",
+      "https://luney-the-cat.de/images/Wynstar04.webp"
     ]
   },
   {
@@ -62,12 +62,12 @@ const characterData = [
     "species": "Spectral Unicorn",
     "gender": "Male",
     "tags": "Horselike, Spectral, Holy, Charming, Succubus, Untamable",
-    "image": "https://via.placeholder.com/300x300/27ae60/ffffff?text=Kael",
+    "image": "https://luney-the-cat.de/images/Wynstar01.webp",
     "backstory": "Descended from ancient dragons, Kael serves as a paladin of the Solar Court. His dragon heritage grants him the ability to breathe fire and resist magical attacks. He has sworn an oath to protect the innocent and vanquish evil wherever it may lurk.",
     "gallery": [
-      "https://via.placeholder.com/150x150/27ae60/ffffff?text=Dragon+1",
-      "https://via.placeholder.com/150x150/27ae60/ffffff?text=Dragon+2",
-      "https://via.placeholder.com/150x150/27ae60/ffffff?text=Dragon+3"
+      "https://luney-the-cat.de/images/Wynstar02.webp",
+      "https://luney-the-cat.de/images/Wynstar03.webp",
+      "https://luney-the-cat.de/images/Wynstar04.webp"
     ]
   },
   {
