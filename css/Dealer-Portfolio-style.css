@@ -149,7 +149,7 @@
   :root {
     /* RGB versions for opacity control (Dark Mode) */
     --color-gray-400-rgb: 119, 124, 124;
-    --color-teal-300-rgb: 50, 184, 198;
+    --color-Pink-Main-rgb: 241, 112, 166;
     --color-gray-300-rgb: 167, 169, 169;
     --color-gray-200-rgb: 245, 245, 245;
 
@@ -179,7 +179,7 @@
     --color-success: var(--color-teal-300);
     --color-warning: var(--color-orange-400);
     --color-info: var(--color-gray-300);
-    --color-focus-ring: rgba(var(--color-teal-300-rgb), 0.4);
+    --color-focus-ring: rgba(var(--color-Pink-Main-rgb), 0.4);
     --color-btn-primary-text: var(--color-slate-900);
     --color-card-border: rgba(var(--color-gray-400-rgb), 0.2);
     --color-card-border-inner: rgba(var(--color-gray-400-rgb), 0.15);
@@ -198,7 +198,7 @@
     --select-caret-dark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23f5f5f5' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
 
     /* RGB versions for dark mode */
-    --color-success-rgb: var(--color-teal-300-rgb);
+    --color-success-rgb: var(--color-Pink-Main-rgb);
     --color-error-rgb: var(--color-red-400-rgb);
     --color-warning-rgb: var(--color-orange-400-rgb);
     --color-info-rgb: var(--color-gray-300-rgb);
@@ -209,7 +209,7 @@
 [data-color-scheme="dark"] {
   /* RGB versions for opacity control (dark mode) */
   --color-gray-400-rgb: 119, 124, 124;
-  --color-teal-300-rgb: 50, 184, 198;
+  --color-Pink-Main-rgb: 50, 184, 198;
   --color-gray-300-rgb: 167, 169, 169;
   --color-gray-200-rgb: 245, 245, 245;
 
@@ -239,7 +239,7 @@
   --color-success: var(--color-teal-300);
   --color-warning: var(--color-orange-400);
   --color-info: var(--color-gray-300);
-  --color-focus-ring: rgba(var(--color-teal-300-rgb), 0.4);
+  --color-focus-ring: rgba(var(--color-Pink-Main-rgb), 0.4);
   --color-btn-primary-text: var(--color-slate-900);
   --color-card-border: rgba(var(--color-gray-400-rgb), 0.15);
   --color-card-border-inner: rgba(var(--color-gray-400-rgb), 0.15);
@@ -257,7 +257,7 @@
   --select-caret-dark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23f5f5f5' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
 
   /* RGB versions for dark mode */
-  --color-success-rgb: var(--color-teal-300-rgb);
+  --color-success-rgb: var(--color-Pink-Main-rgb);
   --color-error-rgb: var(--color-red-400-rgb);
   --color-warning-rgb: var(--color-orange-400-rgb);
   --color-info-rgb: var(--color-gray-300-rgb);
