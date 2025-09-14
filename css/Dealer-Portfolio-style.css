@@ -755,8 +755,8 @@ body {
 .section-title,
 .product-title,
 h1, h2, h3 {
-    font-family: 'Dongle', cursive;
-    font-weight: 400;
+    font-family: 'Dongle', Bold;
+    font-weight: 700;
     letter-spacing: 0.02em;
 }
 
