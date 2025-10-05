@@ -329,7 +329,7 @@ h6 {
   margin: 0;
   font-weight: var(--font-weight-semibold);
   line-height: var(--line-height-tight);
-  color: var(--color-text);
+  color: #F79F2F;
   letter-spacing: var(--letter-spacing-tight);
 }
 
@@ -353,17 +353,18 @@ h6 {
 }
 
 p {
+  color: #F4F4C5;
   margin: 0 0 var(--space-16) 0;
 }
 
 a {
-  color: var(--color-primary);
+  color: #F4F4C5;
   text-decoration: none;
   transition: color var(--duration-fast) var(--ease-standard);
 }
 
 a:hover {
-  color: var(--color-primary-hover);
+  color: #F4F4C5;
 }
 
 code,
@@ -535,9 +536,9 @@ select.form-control {
 
 /* Card component */
 .card {
-  background-color: var(--color-surface);
-  border-radius: var(--radius-lg);
-  border: 1px solid var(--color-card-border);
+  background-color: #130F36;
+  border-radius: 20px;
+  border: 2px solid #F79F2F;
   box-shadow: var(--shadow-sm);
   overflow: hidden;
   transition: box-shadow var(--duration-normal) var(--ease-standard);
