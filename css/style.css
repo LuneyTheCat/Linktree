@@ -303,7 +303,7 @@ html {
   font-family: var(--font-family-base);
   line-height: var(--line-height-normal);
   color: var(--color-text);
-  background-image: url('https://luney-the-cat.de/images/BG_64px.webp')
+  background-image: url('https://luney-the-cat.de/images/BG_64px.webp');
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
 }
