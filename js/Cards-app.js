@@ -6,12 +6,12 @@ const characterData = [
     "species": "Earth Dragon",
     "gender": "Male",
     "tags": "Dragon, Scalie, Aincient, Patient, Honorable, Defensive, Elemental",
-    "image": "https://luney-the-cat.de/images/Avrass_1.jpg",
+    "image": "https://luney-the-cat.de/images/Avrass_4.jpg",
     "backstory": "Born from the mountains themselves during the First Age, Avrass has witnessed kingdoms rise and fall. As guardian of the Eastern Peaks, he established ancient pacts with mountain clans who sought his protection. His scales bear the scars of countless battles fought defending those he considers worthy. Despite his formidable power, Avrass values patience and honor above all, believing true strength lies in restraint. Those who earn his trust discover a passionate protector whose devotion runs as deep as the earth itself.",
     "gallery": [
-      "https://luney-the-cat.de/images/Avrass_2.jpg",
       "https://luney-the-cat.de/images/Avrass_3.jpg",
-      "https://luney-the-cat.de/images/Avrass_4.jpg"
+      "https://luney-the-cat.de/images/Avrass_2.jpg",
+      "https://luney-the-cat.de/images/Avrass_1.jpg"
     ]
   },
   {
@@ -20,12 +20,12 @@ const characterData = [
     "species": "Ice Dragon",
     "gender": "Male",
     "tags": "Dragon, Scalie, Aincient, Wise, Calm, Direct, Elemental",
-    "image": "https://luney-the-cat.de/images/Aoikami_1.jpg",
+    "image": "https://luney-the-cat.de/images/Aoikami_4.jpg",
     "backstory": "One of the eldest beings in the frozen north, Aoikami dwells in glacial caverns where few dare venture. His wisdom comes from millennia of meditation and observation, making him a sought-after counsel for those brave enough to face the tundra. Unlike others of his kind, Aoikami speaks plainly without riddles, believing truth should flow as clearly as mountain springs. His icy demeanor masks an ancient loneliness, and those who break through his frost discover an intense, all-consuming passion beneath.",
     "gallery": [
-      "https://luney-the-cat.de/images/Aoikami_2.jpg",
       "https://luney-the-cat.de/images/Aoikami_3.jpg",
-      "https://luney-the-cat.de/images/Aoikami_4.jpg"
+      "https://luney-the-cat.de/images/Aoikami_2.jpg",
+      "https://luney-the-cat.de/images/Aoikami_1.jpg"
     ]
   },
   {
@@ -34,12 +34,12 @@ const characterData = [
     "species": "Nightstalker Werewolf",
     "gender": "Male",
     "tags": "Werewolf, Feral, Stealth, Agile, Mysterious, Thoughtfull",
-    "image": "https://luney-the-cat.de/images/Fitcher_1.jpg",
+    "image": "https://luney-the-cat.de/images/Fitcher_4.jpg",
     "backstory": "A creature of shadow and moonlight, Fitcher prowls the darkwood where reality blurs. Once human, he was transformed by an ancient curse that granted him eternal night-vision and predatory instincts. He moves through darkness like smoke, observing travelers and claiming those who wander too deep into his territory. Thoughtful and calculating, Fitcher never acts rashly, preferring to study his prey before making his presence known. Those who survive encounters with him speak of piercing yellow eyes and an intelligence that transcends beast nature.",
     "gallery": [
-      "https://luney-the-cat.de/images/Fitcher_2.jpg",
       "https://luney-the-cat.de/images/Fitcher_3.jpg",
-      "https://luney-the-cat.de/images/Fitcher_4.jpg"
+      "https://luney-the-cat.de/images/Fitcher_2.jpg",
+      "https://luney-the-cat.de/images/Fitcher_1.jpg"
     ]
   },
   {
@@ -48,12 +48,12 @@ const characterData = [
     "species": "Tentacle Monster",
     "gender": "Unknown",
     "tags": "Tentacle, Monster, Sadistic, Keeper, Hunter, Emotionless",
-    "image": "https://luney-the-cat.de/images/Terander_1.jpg",
+    "image": "https://luney-the-cat.de/images/Terander_4.jpg",
     "backstory": "This eldritch being emerged from a tear between dimensions during a catastrophic magical event. Terander exists without emotion or morality, viewing all other creatures as playthings for its incomprehensible purposes. It dwells in abandoned ruins and underwater grottos, collecting those who stumble into its domain. Unlike mindless monsters, Terander possesses alien intelligence, learning and adapting from each encounter. Its tentacles move with unsettling purpose, and victims report being held with methodical precision rather than wild chaos.",
     "gallery": [
-      "https://luney-the-cat.de/images/Terander_2.jpg",
       "https://luney-the-cat.de/images/Terander_3.jpg",
-      "https://luney-the-cat.de/images/Terander_4.jpg"
+      "https://luney-the-cat.de/images/Terander_2.jpg",
+      "https://luney-the-cat.de/images/Terander_1.jpg"
     ]
   },
   {
@@ -62,12 +62,12 @@ const characterData = [
     "species": "Spectral Unicorn",
     "gender": "Male",
     "tags": "Horselike, Spectral, Holy, Charming, Succubus, Untamable",
-    "image": "https://luney-the-cat.de/images/Wynstar_1.jpg",
+    "image": "https://luney-the-cat.de/images/Wynstar_4.jpg",
     "backstory": "A paradox of celestial grace and carnal desire, Wynstar appears as a magnificent spectral unicorn bathed in ethereal light. Created when a unicorn's soul merged with succubus essence during a failed binding ritual, he roams sacred groves and enchanted glades. His holy appearance draws the pure-hearted, while his succubus nature feeds on passion and pleasure. Wynstar cannot be tamed or bound by mortal magic, yet he willingly approaches those whose desires resonate with his own. His charm is legendary, leaving encounters marked by both spiritual awakening and physical ecstasy.",
     "gallery": [
-      "https://luney-the-cat.de/images/Wynstar_2.jpg",
       "https://luney-the-cat.de/images/Wynstar_3.jpg",
-      "https://luney-the-cat.de/images/Wynstar_4.jpg"
+      "https://luney-the-cat.de/images/Wynstar_2.jpg",
+      "https://luney-the-cat.de/images/Wynstar_1.jpg"
     ]
   },
   {
@@ -76,12 +76,12 @@ const characterData = [
     "species": "Spectral Slime",
     "gender": "Unknown",
     "tags": "Slime, Spectral, Friendly, Tamable, Pleasuring, Caring",
-    "image": "https://luney-the-cat.de/images/Spectralis_1.jpg",
+    "image": "https://luney-the-cat.de/images/Spectralis_4.jpg",
     "backstory": "Born from residual magical energy in ancient battlefields, Spectralis gained consciousness through centuries of absorbing emotions. Unlike threatening entities, this spectral slime seeks connection and companionship, drawn to warmth and affection. It can mold itself into any form, learning preferences through gentle exploration. Spectralis bonds deeply with those who show it kindness, becoming a devoted companion that exists solely to bring comfort and pleasure. Its translucent form shimmers with soft colors reflecting its emotional state.",
     "gallery": [
-      "https://luney-the-cat.de/images/Spectralis_2.jpg",
       "https://luney-the-cat.de/images/Spectralis_3.jpg",
-      "https://luney-the-cat.de/images/Spectralis_4.jpg"
+      "https://luney-the-cat.de/images/Spectralis_2.jpg",
+      "https://luney-the-cat.de/images/Spectralis_1.jpg"
     ]
   },
   {
@@ -90,12 +90,12 @@ const characterData = [
     "species": "Alien Shapeshifter",
     "gender": "Unknown",
     "tags": "Alien, Shapeshifter, Enslaver, Stong-willed, Hunter, Aggressive",
-    "image": "https://luney-the-cat.de/images/Thalassomorph_1.jpg",
+    "image": "https://luney-the-cat.de/images/Thalassamorph_4.jpg",
     "backstory": "An extraplanar entity that arrived through a rift torn by reckless wizards, Thalassomorph views this world as a hunting ground. Its natural form is unknowable, but it can assume any shape with perfect precision. Strong-willed and cunning, it seeks to dominate rather than simply feed, using its shapeshifting to infiltrate and enslave. Thalassomorph stalks powerful individuals, testing their resolve before revealing its true nature. Those it claims become extensions of its will, though it respects strength and occasionally releases worthy opponents who prove entertaining.",
     "gallery": [
-      "https://luney-the-cat.de/images/Thalassomorph_2.jpg",
       "https://luney-the-cat.de/images/Thalassomorph_3.jpg",
-      "https://luney-the-cat.de/images/Thalassomorph_4.jpg"
+      "https://luney-the-cat.de/images/Thalassomorph_2.jpg",
+      "https://luney-the-cat.de/images/Thalassomorph_1.jpg"
     ]
   },
   {
@@ -104,12 +104,12 @@ const characterData = [
     "species": "Megalodon",
     "gender": "Male",
     "tags": "Mythic, Shark, Ruthless, Openminded, Stong, Shameless",
-    "image": "https://luney-the-cat.de/images/Trozok_1.jpg",
+    "image": "https://luney-the-cat.de/images/Trozok_4.jpg",
     "backstory": "A prehistoric leviathan awakened by oceanic magic, Trozok is the last of the megalodons granted sentience by sea gods. He rules deep ocean territories with absolute authority, shameless in both his appetites and his power. Despite his ruthless nature in defending his domain, Trozok possesses unexpected open-mindedness, curious about surface-dwellers and their ways. His strength is legendary among mer-folk and coastal villages, who offer tribute to avoid his wrath. Those who approach respectfully may find him surprisingly receptive to negotiation—and other exchanges.",
     "gallery": [
-      "https://luney-the-cat.de/images/Trozok_2.jpg",
       "https://luney-the-cat.de/images/Trozok_3.jpg",
-      "https://luney-the-cat.de/images/Trozok_4.jpg"
+      "https://luney-the-cat.de/images/Trozok_2.jpg",
+      "https://luney-the-cat.de/images/Trozok_1.jpg"
     ]
   }
 ];
