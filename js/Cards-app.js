@@ -90,7 +90,7 @@ const characterData = [
     "species": "Alien Shapeshifter",
     "gender": "Unknown",
     "tags": "Alien, Shapeshifter, Enslaver, Stong-willed, Hunter, Aggressive",
-    "image": "https://luney-the-cat.de/images/Thalassamorph_4.jpg",
+    "image": "https://luney-the-cat.de/images/Thalassomorph_4.jpg",
     "backstory": "An extraplanar entity that arrived through a rift torn by reckless wizards, Thalassomorph views this world as a hunting ground. Its natural form is unknowable, but it can assume any shape with perfect precision. Strong-willed and cunning, it seeks to dominate rather than simply feed, using its shapeshifting to infiltrate and enslave. Thalassomorph stalks powerful individuals, testing their resolve before revealing its true nature. Those it claims become extensions of its will, though it respects strength and occasionally releases worthy opponents who prove entertaining.",
     "gallery": [
       "https://luney-the-cat.de/images/Thalassomorph_3.jpg",
